@@ -1,0 +1,5 @@
+demo/jdk17/
+demo/build/
+demo/.gradle/
+library-app/target/
+demo/temurin17.zip
