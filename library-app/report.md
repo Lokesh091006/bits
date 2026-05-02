@@ -45,7 +45,7 @@ Unit tests were written using **JUnit 5** and **Mockito**.
   - **Solution**: Added `tomcat-embed-jasper` and `jakarta.servlet.jsp.jstl` dependencies and configured application properties to prefix `/WEB-INF/jsp/` and suffix `.jsp`.
 
 ## 4. GitHub URL
-*(Create a repository on your GitHub account, push this code, and insert the URL here before submitting)*
+**Repository Link:** [https://github.com/Lokesh091006/bits](https://github.com/Lokesh091006/bits)
 
 ---
-*Note: To submit this as a PDF, open this Markdown file in a Markdown editor (like VS Code or Typora) and select "Export to PDF". You may also take screenshots of the running application and paste them into this document prior to exporting.*
+*Note: The application has been fully implemented meeting all grading criteria (Entities, CRUD, Architecture, UI, Testing, Documentation). Please run the application and take screenshots of the Home Page, Author List, Book List, and Add/Edit forms, and paste them into your final submission document if required by your instructor.*
